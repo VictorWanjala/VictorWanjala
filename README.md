@@ -23,10 +23,11 @@ Welcome to my GitHub profile! I’m a passionate software developer with a knack
 
 ## 🚀 Projects Highlights  
 - **[EVENTikoWAPI](#):** A dynamic event ticketing system built with Next.js, Node.js, Supabase DB, and Tailwind CSS.  
-- **[Integrated School Management System](#):** A system that automates scheduling, attendance tracking, and fee management using React and PostgreSQL.  
-- **[Fleet Management System](#):** Developed a comprehensive system to manage fleet operations, including vehicle tracking, maintenance schedules, and driver performance metrics using React, Node.js, and PostgreSQL.  
+- **[Integrated School Management System](https://app.proshule.org/):** A system that automates scheduling, attendance tracking, and fee management using React and PostgreSQL.  
+- **[Fleet Management System](https://www.fleet.exhibitsolutions.co.ke/):** Developed a comprehensive system to manage fleet operations, including vehicle tracking, maintenance schedules, and driver performance metrics using React, Node.js, and PostgreSQL.  
 
 ---
 
 Thanks for stopping by! Let’s create something amazing together! 🎉  
+
 
